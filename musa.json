@@ -9,457 +9,685 @@
       "id": "1",
       "ar": "أنا ما زلت حيا",
       "en": "Ana ma ziltu hayyan",
-      "duration": "05:46"
+      "duration": "05:46",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "2",
       "ar": "أول حفظي",
       "en": "Awwalu hifzhi",
-      "duration": "02:20"
+      "duration": "02:20",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "3",
       "ar": "ابوبكر الصديق",
       "en": "Abu Bakr Al-Siddiq",
-      "duration": "04:22"
+      "duration": "04:22",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "4",
       "ar": "ارجوك النجاة",
       "en": "Arjuka alnajat",
-      "duration": "04:49"
+      "duration": "04:49",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "5",
       "ar": "الاندلس احلى امانينا",
       "en": "Al-Andalus ahla amanina",
-      "duration": "09:43"
+      "duration": "09:43",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "6",
       "ar": "الربيع الجو",
       "en": "Al-rabi' aljaw",
-      "duration": "02:35"
+      "duration": "02:35",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "7",
       "ar": "الله الله يالسعودية",
       "en": "Allah Allah ya Al-Saudiyya",
-      "duration": "02:49"
+      "duration": "02:49",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "8",
       "ar": "اليتيم بكيت وكم",
       "en": "Al-yatim bakaytu wakam",
-      "duration": "03:43"
+      "duration": "03:43",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "9",
       "ar": "امنيات عبدالله بانعمه",
       "en": "Amaniyyat Abdullah Banamah",
-      "duration": "03:40"
+      "duration": "03:40",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "10",
       "ar": "انا احمد اللي خلقني",
       "en": "Ana Ahmad allathi khalaqani",
-      "duration": "04:51"
+      "duration": "04:51",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "11",
       "ar": "انا مازلت حيا",
       "en": "Ana ma ziltu hayyan",
-      "duration": "05:46"
+      "duration": "05:46",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "12",
       "ar": "انت قلب",
       "en": "Anta qalb",
-      "duration": "04:59"
+      "duration": "04:59",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "13",
       "ar": "اوبريت عزم وعزيمة",
       "en": "Ubreet azm wa azima",
-      "duration": "10:21"
+      "duration": "10:21",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "14",
       "ar": "بشرى لأرض",
       "en": "Bushra li ard",
-      "duration": "01:17"
+      "duration": "01:17",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "15",
       "ar": "بعد بُعدي",
       "en": "Ba'da bu'di",
-      "duration": "04:28"
+      "duration": "04:28",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "16",
       "ar": "بيتنا بيت سعيد",
       "en": "Baytuna bayt sa'id",
-      "duration": "03:09"
+      "duration": "03:09",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "17",
       "ar": "تاريخ الامجاد",
       "en": "Tarikh al-amjad",
-      "duration": "04:41"
+      "duration": "04:41",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "18",
       "ar": "تجهز وانطلق",
       "en": "Tajahaz wantaliq",
-      "duration": "05:58"
+      "duration": "05:58",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "19",
       "ar": "تحية الحمراء",
       "en": "Tahiyyat al-hamra",
-      "duration": "08:10"
+      "duration": "08:10",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "20",
       "ar": "تدور السنين",
       "en": "Tadur alsineen",
-      "duration": "03:10"
+      "duration": "03:10",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "21",
       "ar": "تمايل وانتشي",
       "en": "Tamayal wantashi",
-      "duration": "04:07"
+      "duration": "04:07",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "22",
       "ar": "تموج السطور",
       "en": "Tamawwuj alsutoor",
-      "duration": "02:42"
+      "duration": "02:42",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "23",
       "ar": "جنود الوطن الحر",
       "en": "Junood al-watan al-hurr",
-      "duration": "04:22"
+      "duration": "04:22",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "24",
       "ar": "حصريا الربيع الجو",
       "en": "Hasriyyan al-rabi' aljaw",
-      "duration": "05:58"
+      "duration": "05:58",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "25",
       "ar": "دعاني شوق",
       "en": "Da'ani shawq",
-      "duration": "03:52"
+      "duration": "03:52",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "26",
       "ar": "رب اني لك عدت",
       "en": "Rabbi inni laka udtu",
-      "duration": "03:25"
+      "duration": "03:25",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "27",
       "ar": "رباك ربك",
       "en": "Rabbak rabbak",
-      "duration": "05:43"
+      "duration": "05:43",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "28",
       "ar": "رسول الله اخجلني قصيدي",
       "en": "Rasulullah akhjalani qasidi",
-      "duration": "04:53"
+      "duration": "04:53",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "29",
       "ar": "سبحان من عرشه",
       "en": "Subhana man arshuhu",
-      "duration": "06:05"
+      "duration": "06:05",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "30",
       "ar": "سقى الله",
       "en": "Saqa Allah",
-      "duration": "03:09"
+      "duration": "03:09",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "31",
       "ar": "سنة المختار",
       "en": "Sunnat al-mukhtar",
-      "duration": "05:05"
+      "duration": "05:05",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "32",
       "ar": "صحيح اني صغير السن",
       "en": "Sahih anni saghir alsin",
-      "duration": "03:59"
+      "duration": "03:59",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "33",
       "ar": "صوت الاذان",
       "en": "Sawt al-adhan",
-      "duration": "04:17"
+      "duration": "04:17",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "34",
       "ar": "طوبى لجيل",
       "en": "Tuba lijil",
-      "duration": "04:42"
+      "duration": "04:42",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "35",
       "ar": "عثمان بن عفان",
       "en": "Uthman ibn Affan",
-      "duration": "04:48"
+      "duration": "04:48",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "36",
       "ar": "علي بن أبي طالب",
       "en": "Ali ibn Abi Talib",
-      "duration": "04:24"
+      "duration": "04:24",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "37",
       "ar": "عيّدوا عيداً سعيدا",
       "en": "Ayyidu idan saidan",
-      "duration": "03:17"
+      "duration": "03:17",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "38",
       "ar": "في عيوني يايمه",
       "en": "Fi uyuni ya imam",
-      "duration": "01:29"
+      "duration": "01:29",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "39",
       "ar": "فيض الهدى",
       "en": "Fayd al-huda",
-      "duration": "06:41"
+      "duration": "06:41",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "40",
       "ar": "قبلة الكون",
       "en": "Qiblat al-kawn",
-      "duration": "04:27"
+      "duration": "04:27",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "41",
       "ar": "لبيك",
       "en": "Labbayk",
-      "duration": "04:33"
+      "duration": "04:33",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "42",
       "ar": "لبيه يا صوت",
       "en": "Labbayhi ya sawt",
-      "duration": "04:33"
+      "duration": "04:33",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "43",
       "ar": "لغة القرآن",
       "en": "Lughat al-Quran",
-      "duration": "03:41"
+      "duration": "03:41",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "44",
       "ar": "ليالي الصيام",
       "en": "Layali al-siyam",
-      "duration": "05:22"
+      "duration": "05:22",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "45",
       "ar": "مازال سهم الأمس",
       "en": "Ma zala sahm al-ams",
-      "duration": "03:30"
+      "duration": "03:30",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "46",
       "ar": "ماعلى الطرف السكيب",
       "en": "Ma ala altaraf al-sakib",
-      "duration": "02:10"
+      "duration": "02:10",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "47",
       "ar": "محمد الأمين",
       "en": "Muhammad al-amin",
-      "duration": "02:49"
+      "duration": "02:49",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "48",
       "ar": "محمد الانسان",
       "en": "Muhammad al-insan",
-      "duration": "05:16"
+      "duration": "05:16",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "49",
       "ar": "مرثية دانية",
       "en": "Marthiyyat daniya",
-      "duration": "06:06"
+      "duration": "06:06",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "50",
       "ar": "مسيرة يتيم 1",
       "en": "Masirat yatim 1",
-      "duration": "03:21"
+      "duration": "03:21",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "51",
       "ar": "مسيرة يتيم 2",
       "en": "Masirat yatim 2",
-      "duration": "02:48"
+      "duration": "02:48",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "52",
       "ar": "مسيرة يتيم 3",
       "en": "Masirat yatim 3",
-      "duration": "02:52"
+      "duration": "02:52",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "53",
       "ar": "مع النبي",
       "en": "Ma'a al-nabi",
-      "duration": "04:37"
+      "duration": "04:37",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "54",
       "ar": "معاً معاً",
       "en": "Maan maan",
-      "duration": "02:20"
+      "duration": "02:20",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "55",
       "ar": "مفاز الغيب",
       "en": "Mafaz al-ghayb",
-      "duration": "03:53"
+      "duration": "03:53",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "56",
       "ar": "منتهى الكمال",
       "en": "Muntaha al-kamal",
-      "duration": "04:39"
+      "duration": "04:39",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "57",
       "ar": "ناج الولي",
       "en": "Naj al-wali",
-      "duration": "03:29"
+      "duration": "03:29",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "58",
       "ar": "نبرات ربع قرن",
       "en": "Nabarat rub' qarn",
-      "duration": "08:34"
+      "duration": "08:34",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "59",
       "ar": "نشيد اليتيم",
       "en": "Nashid al-yatim",
-      "duration": "01:59"
+      "duration": "01:59",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "60",
       "ar": "نشيد ايات",
       "en": "Nashid ayat",
-      "duration": "02:58"
+      "duration": "02:58",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "61",
       "ar": "نعم الخوي",
       "en": "Na'm al-khawi",
-      "duration": "04:56"
+      "duration": "04:56",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "62",
       "ar": "هذا أبي",
       "en": "Hadha abi",
-      "duration": "07:11"
+      "duration": "07:11",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "63",
       "ar": "هذا انيسي",
       "en": "Hadha anisi",
-      "duration": "02:58"
+      "duration": "02:58",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "64",
       "ar": "هلا بالعيد",
       "en": "Hala bil-eid",
-      "duration": "04:34"
+      "duration": "04:34",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "65",
       "ar": "همم",
       "en": "Himam",
-      "duration": "02:50"
+      "duration": "02:50",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "66",
       "ar": "هنا في الكوثر",
       "en": "Huna fi al-kawthar",
-      "duration": "04:34"
+      "duration": "04:34",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "67",
       "ar": "واتيت ياخيرالشهور",
       "en": "Wa atayta ya khayra al-shuhur",
-      "duration": "04:08"
+      "duration": "04:08",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "68",
       "ar": "وطت رجلي",
       "en": "Watta't rijli",
-      "duration": "03:52"
+      "duration": "03:52",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "69",
       "ar": "وفي الطباع",
       "en": "Wa fi al-tiba'",
-      "duration": "03:04"
+      "duration": "03:04",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "70",
       "ar": "وقفت أناجي",
       "en": "Waqaftu anaji",
-      "duration": "02:24"
+      "duration": "02:24",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "71",
       "ar": "وين اللي اول",
       "en": "Wayn allathi awwal",
-      "duration": "05:30"
+      "duration": "05:30",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "72",
       "ar": "يا أماه",
       "en": "Ya umah",
-      "duration": "05:16"
+      "duration": "05:16",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "73",
       "ar": "يابوي",
       "en": "Ya buwi",
-      "duration": "02:06"
+      "duration": "02:06",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "74",
       "ar": "ياحنين",
       "en": "Ya hanin",
-      "duration": "02:08"
+      "duration": "02:08",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "75",
       "ar": "يبه وينك",
       "en": "Yabba waynek",
-      "duration": "05:51"
+      "duration": "05:51",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "76",
       "ar": "يوم تخرجنا",
       "en": "Yawm takharajna",
-      "duration": "03:08"
+      "duration": "03:08",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     }
   ]
 }
